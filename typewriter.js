@@ -1,4 +1,4 @@
-
+// using async
 const sentence = "hello there from lighthouse labs";
 
 function printChar(index) {
